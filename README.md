@@ -13,8 +13,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
-<div>
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivenckunas&theme=nord_dark)|
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivenckunas&hide=Html&theme=nord_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivenckunas&theme=nord_dark)
-</div>
+
