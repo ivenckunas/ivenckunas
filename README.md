@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignas V.</h1>
 <h3 align="center">aspiring frontend developer</h3>
-🌱 I’m currently studying at **CodeAcademy**
-
+<h3 border="1px solid slategrey">🌱 I’m currently studying at CodeAcademy</h3>
 <h3 align="left">📫 Connect with me: ignas.venckunas@gmail.com</h3>
 <p align="left">
 </p>
