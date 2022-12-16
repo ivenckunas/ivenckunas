@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignas V.</h1>
-<p align="center">aspiring frontend developer</p>
+<p align="center">Web Developer</p>
 <h3 align="center" border="1px solid white">🌱 I’m currently studying at CodeAcademy</h3>
 <h3 align="center">📫 Connect with me: ignas.venckunas@gmail.com</h3>
 <h3 align="center">Languages and Tools:</h3>
