@@ -1,6 +1,5 @@
 <h1 align="center">👋 I'm Ignas V.</h1>
-<p align="center">Junior Web Developer</p>
-<h3 align="center" border="1px solid white">Just finished 6months bootcamp at CodeAcademy</h3>
+<p align="center">Web Developer</p>
 <h3 align="center">Connect with me: ignas.venckunas@gmail.com</h3>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
