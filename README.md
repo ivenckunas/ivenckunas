@@ -13,5 +13,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
-<h3 align="center">[https://ivenckunas.github.io/portfolio/](https://ivenckunas.github.io/portfolio-website/)</h3>
+<h3 align="center">https://ivenckunas.github.io/portfolio-website/</h3>
 
