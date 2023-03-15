@@ -2,7 +2,7 @@
 <p align="center">Web Developer</p>
 <h3 align="center">Connect with me: ignas.venckunas@gmail.com</h3>
 <h3 align="center">Languages and Tools:</h3>
-<div align="center"> 
+<div align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -13,5 +13,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
-<h3 align="center">https://ivenckunas.github.io/portfolio-website/</h3>
 
